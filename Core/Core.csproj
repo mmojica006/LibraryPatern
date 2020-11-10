@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseEntity.cs" />
+    <Compile Include="Data\Department.cs" />
     <Compile Include="Data\User.cs" />
     <Compile Include="Data\UserProfile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

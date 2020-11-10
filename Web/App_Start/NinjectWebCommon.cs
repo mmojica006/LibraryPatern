@@ -65,6 +65,7 @@ namespace Web.App_Start
             kernel.Bind<IDbContext>().To<IocDbContext>().InRequestScope();
             kernel.Bind(typeof(IRepository<>)).To(typeof(Repository<>)).InRequestScope();
             kernel.Bind<IUserService>().To<UserService>();
+            kernel.Bind<IDepartmentService>().To<DepartmentService>();
         }        
     }
 }
