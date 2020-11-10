@@ -1,0 +1,14 @@
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\bin\Debug\Service.dll
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\bin\Debug\Service.pdb
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\bin\Debug\Core.dll
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\bin\Debug\Data.dll
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\bin\Debug\EntityFramework.dll
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\bin\Debug\Core.pdb
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\bin\Debug\Data.pdb
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\bin\Debug\Data.dll.config
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\bin\Debug\EntityFramework.xml
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\obj\Debug\Service.dll
+C:\Users\Moises Mojica\source\repos\IocNinject\Service\obj\Debug\Service.pdb

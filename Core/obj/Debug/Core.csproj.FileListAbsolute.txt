@@ -1,0 +1,5 @@
+C:\Users\Moises Mojica\source\repos\IocNinject\Core\bin\Debug\Core.dll
+C:\Users\Moises Mojica\source\repos\IocNinject\Core\bin\Debug\Core.pdb
+C:\Users\Moises Mojica\source\repos\IocNinject\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Moises Mojica\source\repos\IocNinject\Core\obj\Debug\Core.dll
+C:\Users\Moises Mojica\source\repos\IocNinject\Core\obj\Debug\Core.pdb
